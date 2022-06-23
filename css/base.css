@@ -4,33 +4,3 @@ body {
   padding: 15px;
   max-width: 1920px;
 }
-.gys {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-around;
-  width: 100%;
-}
-.sas {
-  display: flexbox;
-  flex-basis: 33%;
-  order: 1;
-  text-align: left;
-}
-.sus {
-  display: flexbox;
-  order: 3;
-  flex-basis: 33%;
-  text-align: right;
-}
-.robot {
-  display: flexbox;
-  order: 2;
-  flex-basis: 33%;
-  text-align: center;
-}
-.amogys li {
-  display: inline;
-  margin-right: 50px;
-  flex-basis: 33%;
-}
