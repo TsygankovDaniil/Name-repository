@@ -48,7 +48,7 @@
   font-size: 100px;
   line-height: 91px;
   color: #FFFFFF;
-  width: 322px;
+  width: 622px;
   height: 182px;
 }
 .zaglav2 {
@@ -70,7 +70,7 @@
   z-index: 3;
   margin-top: 440px;
   margin-left: 231px;
-  width: 160px;
+  width: 175px;
   height: 60px;
   background: #FFFFFF;
 }
@@ -85,8 +85,8 @@
   line-height: 91%;
   text-transform: uppercase;
   color: #0D0D0D;
-  width: 72px;
+  width: 102px;
   height: 20px;
-  padding-left: 44px;
+  padding-left: 39px;
   padding-top: 20px;
 }
