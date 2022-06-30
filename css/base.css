@@ -711,6 +711,11 @@
   background: #0d0d0d;
 }
 .krest3 {
+  position: absolute;
+  margin-left: 7.14%;
+  margin-top: 7.14%;
+  bottom: 7.14%;
+  background: #0d0d0d;
 }
 .selecta {
   width: 213px;
