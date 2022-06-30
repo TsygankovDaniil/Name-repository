@@ -888,3 +888,557 @@
   margin-left: 965px;
   margin-top: -472px;
 }
+.myshik {
+  position: absolute;
+  width: 1920px;
+  height: 940px;
+  margin-left: 0px;
+  margin-top: 227px;
+  background: #0D0D0D;
+}
+.goodfor {
+  position: absolute;
+  width: 168px;
+  height: 18px;
+  margin-left: 320px;
+  margin-top: 540px;
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 91%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.everyday {
+  position: absolute;
+  width: 313px;
+  height: 55px;
+  margin-left: 348px;
+  margin-top: 580px;
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 91%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.textopat3 {
+  position: absolute;
+  width: 387px;
+  height: 78px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffffff;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+  margin-left: 360px;
+  margin-top: 680px;
+}
+.knopka2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px 38px;
+  gap: 10px;
+  position: absolute;
+  width: 104px;
+  height: 25px;
+  margin-left: 360px;
+  margin-top: 800px;
+  background: #ff5050;
+}
+.shopall2 {
+  width: 213px;
+  height: 20px;
+  font-family: "DIN Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 91%;
+  text-transform: uppercase;
+  color: #ffffff;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin-top: 3px;
+  margin-left: 3px;
+}
+.tochkab1 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  margin-left: 350px;
+  margin-top: 1054px;
+}
+.tochkab2 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  margin-left: 383px;
+  margin-top: 1054px;
+}
+.tochkab3 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  margin-left: 414px;
+  margin-top: 1054px;
+}
+.recent {
+  position: absolute;
+  width: 840px;
+  height: 55px;
+  margin-left: 560px;
+  margin-top: 1303px;
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 91%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #0D0D0D;
+}
+.footballki {
+  position: absolute;
+  width: 1028px;
+  height: 331px;
+  margin-left: 479px;
+  margin-top: 1444px;
+}
+.textal {
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 91%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #0D0D0D;
+}
+.textal2 {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #0D0D0D;
+}
+.texta1 {
+  position: absolute;
+  width: 350px;
+  height: 78px;
+  margin-left: 470px;
+  margin-top: 1812px;
+}
+.texta2 {
+  position: absolute;
+  width: 350px;
+  height: 78px;
+  margin-left: 832px;
+  margin-top: 1812px;
+}
+.texta3 {
+  position: absolute;
+  width: 350px;
+  height: 78px;
+  margin-left: 1193px;
+  margin-top: 1812px;
+}
+.texta4 {
+  position: absolute;
+  width: 89px;
+  height: 26px;
+  margin-left: 600px;
+  margin-top: 1856px;
+}
+.texta5 {
+  position: absolute;
+  width: 89px;
+  height: 26px;
+  margin-left: 960px;
+  margin-top: 1856px;
+}
+.texta6 {
+  position: absolute;
+  width: 89px;
+  height: 26px;
+  margin-left: 1316px;
+  margin-top: 1856px;
+}
+.tochki1 {
+  position: absolute;
+  width: 105px;
+  height: 23px;
+  margin-left: 595px;
+  margin-top: 1902px;
+  background: #0D0D0D;
+}
+.tochki2 {
+  position: absolute;
+  width: 105px;
+  height: 23px;
+  margin-left: 955px;
+  margin-top: 1902px;
+  background: #0D0D0D;
+}
+.tochki3 {
+  position: absolute;
+  width: 105px;
+  height: 23px;
+  margin-left: 1310px;
+  margin-top: 1902px;
+  background: #0D0D0D;
+}
+.pramoygol5 {
+  position: absolute;
+  width: 1920px;
+  height: 593px;
+  margin-left: 0px;
+  margin-top: 2021px;
+  background: #F8F8F8;
+}
+.welove {
+  position: absolute;
+  width: 330px;
+  height: 18px;
+  margin-left: 825px;
+  margin-top: 125px;
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 91%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #FF5050;
+}
+.textopyat4 {
+  position: absolute;
+  width: 595px;
+  height: 132px;
+  margin-left: -67px;
+  margin-top: 211px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 33px;
+  text-align: center;
+  color: #0D0D0D;
+  opacity: 0.2;
+}
+.textopyat5 {
+  position: absolute;
+  width: 595px;
+  height: 132px;
+  margin-left: 680px;
+  margin-top: 211px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 33px;
+  text-align: center;
+  color: #0D0D0D;
+}
+.textopyat6 {
+  position: absolute;
+  width: 595px;
+  height: 132px;
+  margin-left: 1394px;
+  margin-top: 211px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 33px;
+  text-align: center;
+  color: #0D0D0D;
+  opacity: 0.2;
+}
+.olivia1 {
+  position: absolute;
+  width: 163px;
+  height: 18px;
+  margin-left: 145px;
+  margin-top: 382px;
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 91%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #0D0D0D;
+  opacity: 0.2;
+}
+.olivia2 {
+  position: absolute;
+  width: 163px;
+  height: 18px;
+  margin-left: 890px;
+  margin-top: 382px;
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 91%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #0D0D0D;
+  opacity: 0.6;
+}
+.olivia3 {
+  position: absolute;
+  width: 163px;
+  height: 18px;
+  margin-left: 1607px;
+  margin-top: 382px;
+  font-family: 'DIN Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 91%;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #0D0D0D;
+  opacity: 0.2;
+}
+.tochk {
+  position: absolute;
+  width: 67px;
+  height: 20px;
+  margin-left: 931px;
+  margin-top: 489px;
+}
+.marki {
+  position: absolute;
+  width: 1060px;
+  height: 167px;
+  margin-left: 433px;
+  margin-top: 2639px;
+}
+.pramoygol6 {
+  position: absolute;
+  width: 1920px;
+  height: 422px;
+  margin-left: 0px;
+  margin-top: 2892px;
+  background: #262425;
+}
+.geekfuel {
+  position: absolute;
+  width: 314px;
+  height: 64px;
+  margin-left: 250px;
+  margin-top: 130px;
+}
+.bundles {
+  width: 65px;
+  height: 15px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  flex: none;
+  flex-grow: 0;
+  margin-left: 800px;
+  margin-top: 100px;
+}
+.exclusive {
+  width: 113px;
+  height: 15px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  flex: none;
+  flex-grow: 0;
+  margin-left: 800px;
+  margin-top: 45px;
+}
+.mondo {
+  width: 56px;
+  height: 15px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  flex: none;
+  flex-grow: 0;
+  margin-left: 800px;
+  margin-top: 45px;
+}
+.collectibles {
+  width: 102px;
+  height: 15px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  flex: none;
+  flex-grow: 0;
+  margin-left: 800px;
+  margin-top: 45px;
+}
+.teeclub {
+  width: 65px;
+  height: 15px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  color: #FFFFFF;
+  flex: none;
+  flex-grow: 0;
+  margin-left: 1030px;
+  margin-top: -195px;
+}
+.ghostbusters {
+  width: 112px;
+  height: 15px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  color: #FFFFFF;
+  flex: none;
+  flex-grow: 0;
+  margin-left: 1030px;
+  margin-top: 45px;
+}
+.gift {
+  width: 146px;
+  height: 15px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  color: #FFFFFF;
+  flex: none;
+  flex-grow: 0;
+  margin-left: 1030px;
+  margin-top: 45px;
+}
+.login {
+  width: 45px;
+  height: 15px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  flex: none;
+  flex-grow: 0;
+  margin-left: 1030px;
+  margin-top: 45px;
+}
+.signup {
+  position: absolute;
+  width: 268px;
+  height: 20px;
+  margin-left: 1288px;
+  margin-top: 8612px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: #FFFFFF;
+  margin-left: 1348px;
+  margin-top: -200px;
+}
+.enteryour {
+  position: absolute;
+  width: 219px;
+  height: 18px;
+  margin-left: 1288px;
+  margin-top: 8663px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #FFFFFF;
+  opacity: 0.4;
+  margin-left: 1349px;
+  margin-top: -145px;
+}
+.strelka {
+  position: absolute;
+  width: 18px;
+  height: 12px;
+  margin-left: 1610px;
+  margin-top: -142px;
+}
+.dop {
+  position: absolute;
+  width: 239px;
+  height: 70px;
+  margin-left: 1338px;
+  margin-top: -113px;
+}
+.palka {
+  position: absolute;
+  width: 1920px;
+  margin-left: 0px;
+  margin-top: 54px;
+}
+.dop2 {
+  position: absolute;
+  width: 285px;
+  height: 15px;
+  margin-left: 280px;
+  margin-top: 93px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  color: #FFFFFF;
+  opacity: 0.4;
+}
+.dop3 {
+  position: absolute;
+  width: 237px;
+  height: 15px;
+  margin-left: 1330px;
+  margin-top: 93px;
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 15px;
+  color: #FFFFFF;
+  opacity: 0.4;
+}
